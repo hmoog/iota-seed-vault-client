@@ -1,0 +1,4 @@
+/**
+ * @license iota-seed-vault-client
+ * MIT license
+ */
